@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="54.1" tvg-id="WCCVDT1.pr",WCCV-DT1 (480p)
 http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
-#EXTINF:-1 tvg-chno="34.1" tvg-id="WELUDT1.pr",CTNi (Christian Television Network International) (480p) [Not 24/7]
-https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="6.1" tvg-id="WIPRDT1.pr",WIPR (608p)
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8
 #EXTINF:-1 tvg-chno="2.1" tvg-id="WKAQDT1.pr",WKAQ-DT1 (Telemundo PR) (1080p)
